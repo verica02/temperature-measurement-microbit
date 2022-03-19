@@ -1,6 +1,6 @@
 ## Measure temperature with micro:bit and log data to Excel  🌡🥵 🥶
 
- Detect ambient temperature with microbit using WeatherBit extension and log data to Excel with DataStreamer extension
+   Detect ambient temperature with microbit using WeatherBit extension and log data to Excel with DataStreamer extension
 
 - create new project on https://makecode.microbit.org
 

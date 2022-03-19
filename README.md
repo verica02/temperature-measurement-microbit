@@ -27,7 +27,8 @@
 
 - Temperature and time will appear in Data In excel sheet as it is received from the microbit sensor
 
-![image](https://user-images.githubusercontent.com/77109037/159141764-b24d1d3e-8ca4-41b1-8d03-cf5a8c93acc4.png)
+![microbit](https://user-images.githubusercontent.com/77109037/159142336-80783356-357e-4f3e-b1ea-8a4c50b3fc41.gif)
+
 
 
 

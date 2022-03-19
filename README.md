@@ -1,4 +1,4 @@
-## Code for micro:bit to measure temperature with WeatherBit and log data to Excel with DataStreamer 🌡🥵 🥶
+## measure temperature with micro:bit using WeatherBit and log data to Excel with DataStreamer 🌡🥵 🥶
 
 ## Link:
 https://makecode.microbit.org/#editor

@@ -20,12 +20,12 @@
 
 - connect microbit to the computer, download code from makecode site and insert it to the microbit folder
 
-- connect the microbit device in excel and start data sreaming from the DataStreamer tab
+- connect the microbit device in excel and start data streaming from the DataStreamer tab
 
 ![image](https://user-images.githubusercontent.com/77109037/159141687-00b07ae7-0708-4395-b1b4-51a4aa5033b7.png)
 
 
-- Time and temperature will appear in Data In excel sheet as it is received from the microbit sensor
+- Temperature and time will appear in Data In excel sheet as it is received from the microbit sensor
 
 ![image](https://user-images.githubusercontent.com/77109037/159141764-b24d1d3e-8ca4-41b1-8d03-cf5a8c93acc4.png)
 

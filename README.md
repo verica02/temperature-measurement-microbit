@@ -5,6 +5,7 @@ Detect ambient temperature with microbit using WeatherBit extension and log data
 - create new project on https://makecode.microbit.org
 - add WeatherBit and DataStreamer extensions
 - write code to display the ambient temperature using Blocks or JavaScript
+- download DataStreamer extension for Excel
 - connect microbit to the computer, download code from makecode site and insert it to the microbit folder
 - connect the microbit device in excel and start data sreaming from the DataStreamer tab
 - Time and temperature will appear in Data In excel sheet as it is received from the microbit sensor.

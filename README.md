@@ -4,9 +4,17 @@
 
 - create new project on https://makecode.microbit.org
 
+![image](https://user-images.githubusercontent.com/77109037/159141291-ae7bf77c-e55c-4a22-a1e1-b40d170569a7.png)
+
+
 - add WeatherBit and DataStreamer extensions
 
+![image](https://user-images.githubusercontent.com/77109037/159141511-bc59aad6-7b9f-44ff-888a-4caa067aa7f7.png)
+
+
 - write code to display the ambient temperature using Blocks or JavaScript
+
+   link: https://makecode.microbit.org/#editor
 
 - download DataStreamer extension for Excel
 
@@ -14,13 +22,15 @@
 
 - connect the microbit device in excel and start data sreaming from the DataStreamer tab
 
+![image](https://user-images.githubusercontent.com/77109037/159141687-00b07ae7-0708-4395-b1b4-51a4aa5033b7.png)
+
+
 - Time and temperature will appear in Data In excel sheet as it is received from the microbit sensor
 
-
-## Link:
-https://makecode.microbit.org/#editor
+![image](https://user-images.githubusercontent.com/77109037/159141764-b24d1d3e-8ca4-41b1-8d03-cf5a8c93acc4.png)
 
 
-Excel temperature monitoring screenshot
-![image](https://user-images.githubusercontent.com/77109037/153927690-1559dfef-67e9-41cf-b2a1-c9d9f2329e35.png)
+
+
+
 
